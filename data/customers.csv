@@ -1,0 +1,9 @@
+customer_id,name,email,amount
+101,Ayesha,ayesha@example.com,250
+102,Rahul,rahul@example.com,450
+103,,invalid-email,abc
+104,Sara,sara@example.com,300
+102,Rahul,rahul@example.com,450
+105,Imran,imran@example.com,-50
+106, Fatima , FATIMA@example.com ,125
+103, Simran, simran@example.com, 234
